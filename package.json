@@ -1,0 +1,34 @@
+{
+  "name": "the_guiders",
+  "version": "1.0.0",
+  "description": "webservice for the guiders vr app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiagofoks/vrbluehack.git"
+  },
+  "keywords": [
+    "vr",
+    "bluehack",
+    "watson",
+    "bluemix",
+    "blind",
+    "image"
+  ],
+  "author": "Patricia, Massao, Gabriel, Lucas, Socrates, Tiago",
+  "license": "ISC",
+    "dependencies": {
+    "body-parser": "^1.15.0",
+    "collections": "^3.0.0",
+    "express": "^4.13.4",
+    "mongodb": "^2.1.16",
+    "mongoose": "^4.4.10",
+    "validator": "^5.7.0"
+  "bugs": {
+    "url": "https://github.com/tiagofoks/vrbluehack/issues"
+  },
+  "homepage": "https://github.com/tiagofoks/vrbluehack#readme"
+}
